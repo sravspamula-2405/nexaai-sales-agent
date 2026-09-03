@@ -98,13 +98,15 @@ def filter_context(df, market):
 # Gemini helpers
 # -----------------------------
 def get_api_key():
-    # Streamlit secrets first, then environment, then UI input.
+    # Deployment-safe configuration: the Gemini key is kept server-side
+    # in Streamlit Secrets or an environment variable. It is never entered
+    # or displayed in the application UI.
     try:
         if "GEMINI_API_KEY" in st.secrets:
             return st.secrets["GEMINI_API_KEY"]
     except Exception:
         pass
-    return os.getenv("GEMINI_API_KEY") or st.session_state.get("gemini_api_key", "")
+    return os.getenv("GEMINI_API_KEY", "")
 
 @st.cache_resource(show_spinner=False)
 def make_client(api_key):
@@ -351,11 +353,15 @@ with st.sidebar:
         st.session_state.market_context = None
         st.rerun()
     st.divider()
-    st.write("### 🔑 AI Agent Connection")
-    key = st.text_input("Gemini API key", type="password", value=st.session_state.get("gemini_api_key", ""), help="Use your Gemini API key. It is kept in this session only unless you add it as a deployment secret.")
-    st.session_state.gemini_api_key = key
-    if key: st.success(f"API key entered • {AI_MODEL}")
-    else: st.warning("No API key — deterministic prototype fallback")
+    st.write("### 🧠 AI Agent Connection")
+    # The API key is intentionally hidden from the user-facing application.
+    # For deployment, configure GEMINI_API_KEY in Streamlit Secrets.
+    if get_api_key():
+        st.success(f"🟢 Connected • {AI_MODEL}")
+        st.caption("AI orchestration is enabled.")
+    else:
+        st.warning("🟡 Demo mode • AI key not configured")
+        st.caption("Configure GEMINI_API_KEY in the deployment secrets to enable live AI agents.")
     st.divider()
     st.write("### 🔗 Connected Enterprise Sources")
     for label in source_map:
