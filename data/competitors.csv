@@ -1,0 +1,9 @@
+id,competitor,positioning,strengths,gaps,overlapping_solutions,industries
+COMP01,Industrial IoT Vendor A,IoT Platforms,Strong machine connectivity,Less differentiated AI layer,NexaMonitor; NexaConnect,Manufacturing
+COMP02,Vision Vendor B,Computer Vision,Strong inspection models,Limited broader data platform,Vision inspection,Automotive; FMCG
+COMP03,Analytics Vendor C,Analytics,Strong BI and dashboards,Limited edge/IoT capabilities,Analytics platform,Manufacturing; Retail
+COMP04,Enterprise AI Vendor D,AI Platforms,Broad AI portfolio,Higher implementation complexity,AI platform,Enterprise
+COMP05,Maintenance Vendor E,EAM / Maintenance,Strong maintenance workflows,Less predictive analytics depth,Maintenance suite,Heavy Engineering; Manufacturing
+COMP06,BFSI Analytics Vendor F,Fraud & Risk Analytics,Specialized fraud workflows,Narrower enterprise data/integration layer,NexaFraud; NexaRisk,Banking; Financial Services; Insurance
+COMP07,Healthcare Workflow Vendor G,Healthcare Operations,Strong workflow specialization,Limited broader analytics and data-platform coverage,NexaCareFlow; NexaOps AI; NexaDoc,Healthcare; Hospitals
+COMP08,Cloud Optimization Vendor H,Cloud FinOps,Strong cloud cost visibility,Limited AI/data engineering breadth,NexaCloudIQ; NexaDataOps,IT; SaaS; Digital

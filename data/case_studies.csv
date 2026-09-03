@@ -1,0 +1,32 @@
+id,customer,industry,problem,solution,impact,keywords
+C001,AutoPrime Motors,Automotive Manufacturing,Unplanned equipment downtime,NexaPredict + NexaMonitor,22% reduction in unplanned downtime,Automotive Manufacturing; Unplanned equipment downtime; NexaPredict + NexaMonitor
+C002,Global Auto Components,Automotive Manufacturing,Poor equipment visibility,NexaMonitor,30% improvement in machine visibility,Automotive Manufacturing; Poor equipment visibility; NexaMonitor
+C003,VisionAuto,Automotive Manufacturing,Manual quality inspection,NexaVision,35% reduction in manual inspection effort,Automotive Manufacturing; Manual quality inspection; NexaVision
+C004,FreshBite Foods,FMCG Manufacturing,Inconsistent product quality,NexaVision,18% reduction in quality-related rework,FMCG Manufacturing; Inconsistent product quality; NexaVision
+C005,FreshFoods Manufacturing,FMCG Manufacturing,Demand volatility,NexaForecast,14% improvement in forecast accuracy,FMCG Manufacturing; Demand volatility; NexaForecast
+C006,TasteCraft Beverages,FMCG Manufacturing,Production bottlenecks,NexaOptimize,11% improvement in throughput,FMCG Manufacturing; Production bottlenecks; NexaOptimize
+C007,MediCore Pharmaceuticals,Pharmaceuticals,Critical asset failures,NexaAsset360,20% reduction in unexpected asset downtime,Pharmaceuticals; Critical asset failures; NexaAsset360
+C008,NovaPharma,Pharmaceuticals,Manual packaging inspection,NexaQuality,30% reduction in inspection effort,Pharmaceuticals; Manual packaging inspection; NexaQuality
+C009,HealthPlus Labs,Pharmaceuticals,Fragmented plant data,NexaData,Single governed analytics layer across 4 plants,Pharmaceuticals; Fragmented plant data; NexaData
+C010,MegaSteel,Heavy Engineering,Remote asset failures,NexaEdge + NexaPredict,19% reduction in unplanned maintenance,Heavy Engineering; Remote asset failures; NexaEdge + NexaPredict
+C011,AutoPrime Motors,Automotive Manufacturing,Unplanned equipment downtime,NexaPredict + NexaMonitor,22% reduction in unplanned downtime,Automotive Manufacturing; Unplanned equipment downtime; NexaPredict + NexaMonitor
+C012,Global Auto Components,Automotive Manufacturing,Poor equipment visibility,NexaMonitor,30% improvement in machine visibility,Automotive Manufacturing; Poor equipment visibility; NexaMonitor
+C013,VisionAuto,Automotive Manufacturing,Manual quality inspection,NexaVision,35% reduction in manual inspection effort,Automotive Manufacturing; Manual quality inspection; NexaVision
+C014,FreshBite Foods,FMCG Manufacturing,Inconsistent product quality,NexaVision,18% reduction in quality-related rework,FMCG Manufacturing; Inconsistent product quality; NexaVision
+C015,FreshFoods Manufacturing,FMCG Manufacturing,Demand volatility,NexaForecast,14% improvement in forecast accuracy,FMCG Manufacturing; Demand volatility; NexaForecast
+C016,TasteCraft Beverages,FMCG Manufacturing,Production bottlenecks,NexaOptimize,11% improvement in throughput,FMCG Manufacturing; Production bottlenecks; NexaOptimize
+C017,MediCore Pharmaceuticals,Pharmaceuticals,Critical asset failures,NexaAsset360,20% reduction in unexpected asset downtime,Pharmaceuticals; Critical asset failures; NexaAsset360
+C018,NovaPharma,Pharmaceuticals,Manual packaging inspection,NexaQuality,30% reduction in inspection effort,Pharmaceuticals; Manual packaging inspection; NexaQuality
+C019,HealthPlus Labs,Pharmaceuticals,Fragmented plant data,NexaData,Single governed analytics layer across 4 plants,Pharmaceuticals; Fragmented plant data; NexaData
+C020,MegaSteel,Heavy Engineering,Remote asset failures,NexaEdge + NexaPredict,19% reduction in unplanned maintenance,Heavy Engineering; Remote asset failures; NexaEdge + NexaPredict
+CS-021,FinServe Bank,Banking & Financial Services,Manual fraud review and fragmented signals,NexaFraud analytics workflow,Reduced review workload and improved risk-team visibility,fraud; risk; analytics
+CS-022,HealthFirst Network,Healthcare & Life Sciences,Patient-flow bottlenecks across facilities,NexaCareFlow capacity and queue analytics,Improved operational visibility for capacity planning,patient flow; operations; analytics
+CS-023,CloudWorks Digital,"IT, Digital & Data Services",Unpredictable delivery and resource utilization,NexaDataOps and delivery analytics,Improved delivery visibility and resource planning,IT services; delivery; data
+C021,FinServe Bank,Banking & Financial Services,High manual fraud-review workload,NexaFraud + NexaData BFSI,28% reduction in manual fraud-review effort,Banking & Financial Services; Fraud risk; manual review; NexaFraud; NexaData BFSI
+C022,SecureLend Financial,Banking & Financial Services,Fragmented lending-risk signals,NexaRisk,16% faster risk-assessment turnaround,Banking & Financial Services; Lending; risk scoring; NexaRisk
+C023,HealthFirst Network,Healthcare & Life Sciences,Long patient waiting times,NexaCareFlow,17% improvement in patient-flow turnaround,Healthcare & Life Sciences; patient flow; waiting time; NexaCareFlow
+C024,MediLink Hospitals,Healthcare & Life Sciences,Manual documentation and fragmented workflows,NexaDoc + NexaOps AI,25% reduction in manual documentation effort,Healthcare & Life Sciences; documentation; workflow; NexaDoc; NexaOps AI
+C025,CloudWorks Digital,"IT, Digital & Data Services",Fragmented delivery and resource visibility,NexaDataOps + NexaAI Hub,20% improvement in delivery-operations visibility,"IT, Digital & Data Services; delivery analytics; data operations; NexaDataOps; NexaAI Hub"
+C026,DataSphere Solutions,"IT, Digital & Data Services",Unreliable data pipelines,NexaDataOps,30% reduction in recurring data-quality incidents,"IT, Digital & Data Services; data quality; pipelines; NexaDataOps"
+C027,FreshBasket Consumer Brands,FMCG Manufacturing,Packaging-quality inconsistencies,NexaVision FMCG,18% reduction in quality-related rework,FMCG Manufacturing; packaging; quality; NexaVision FMCG
+C028,DailyHarvest Foods,FMCG Manufacturing,Demand and supply imbalance,NexaForecast + NexaData FMCG,14% improvement in forecast accuracy,FMCG Manufacturing; demand; supply chain; NexaForecast; NexaData FMCG

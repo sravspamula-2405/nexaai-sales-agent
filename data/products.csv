@@ -1,0 +1,30 @@
+id,product,category,industry,description,capabilities,price
+P01,NexaPredict,AI & Predictive Analytics,Automotive Manufacturing,AI-powered predictive maintenance for critical production assets,predictive maintenance; time-series ML; failure prediction; asset health,₹18-30 Lakhs/year
+P02,NexaMonitor,Industrial IoT,Automotive Manufacturing,Real-time plant and machine monitoring,IoT; sensors; telemetry; dashboards; OEE,₹12-22 Lakhs/year
+P03,NexaVision,Computer Vision,Automotive Manufacturing,AI-based visual quality inspection and defect detection,computer vision; defect detection; quality inspection,₹15-28 Lakhs/year
+P04,NexaData,Data & Digital Engineering,Manufacturing,"Industrial data platform for integrating plant, ERP and operational data",data engineering; lakehouse; APIs; ETL,₹20-35 Lakhs/year
+P05,NexaForecast,AI & Predictive Analytics,FMCG Manufacturing,Demand and production forecasting for volatile product lines,forecasting; demand planning; time-series ML,₹14-24 Lakhs/year
+P06,NexaOptimize,AI & Predictive Analytics,FMCG Manufacturing,"Production optimization for throughput, yield and waste",optimization; simulation; operations analytics,₹18-30 Lakhs/year
+P07,NexaSafety,Computer Vision,Manufacturing,AI-based worker safety and PPE monitoring,computer vision; PPE; safety analytics,₹12-20 Lakhs/year
+P08,NexaEdge,Industrial IoT,Heavy Engineering,Edge analytics for plants with intermittent connectivity,edge computing; IoT; offline analytics,₹16-26 Lakhs/year
+P09,NexaAsset360,Industrial IoT,Pharmaceuticals,Asset health and condition monitoring for critical equipment,asset monitoring; condition monitoring; alerts,₹16-27 Lakhs/year
+P10,NexaQuality,Computer Vision,Pharmaceuticals,Visual inspection support for packaging and production quality,computer vision; inspection; anomaly detection,₹18-30 Lakhs/year
+P11,NexaInsight,Data & Digital Engineering,Retail,Analytics platform for operational and customer data,BI; analytics; dashboards; data platform,₹10-20 Lakhs/year
+P12,NexaAI Hub,AI & Predictive Analytics,Enterprise,Enterprise AI platform for deploying multiple AI use cases,AI platform; MLOps; model governance,₹25-45 Lakhs/year
+P13,NexaFleet,Industrial IoT,Logistics,Fleet and asset monitoring with predictive alerts,fleet analytics; GPS; IoT; predictive alerts,₹14-25 Lakhs/year
+P14,NexaAnomaly,AI & Predictive Analytics,Manufacturing,Anomaly detection for process and sensor data,anomaly detection; ML; sensor analytics,₹12-22 Lakhs/year
+P15,NexaConnect,Data & Digital Engineering,Manufacturing,"Integration layer for plant, MES, ERP and cloud systems",APIs; integration; MES; ERP,₹15-28 Lakhs/year
+P16,NexaFraud,AI & Predictive Analytics,Banking & Financial Services,AI-assisted transaction anomaly and fraud risk analytics,anomaly detection; risk signals; transaction analytics,₹18-32 Lakhs/year
+P17,NexaRisk,AI & Predictive Analytics,Banking & Financial Services,Risk analytics for lending and portfolio monitoring,risk scoring; predictive analytics; portfolio monitoring,₹20-38 Lakhs/year
+P18,NexaCustomer360,Data & Digital Engineering,Banking & Financial Services,Unified customer analytics layer for service and growth teams,customer 360; segmentation; analytics; APIs,₹22-40 Lakhs/year
+P19,NexaData BFSI,Data & Digital Engineering,Banking & Financial Services,Secure data integration and analytics foundation for banking use cases,data engineering; APIs; governance; dashboards,₹24-42 Lakhs/year
+P20,NexaCareFlow,AI & Predictive Analytics,Healthcare & Life Sciences,Operational analytics for patient flow and capacity planning,forecasting; queue analytics; capacity optimization,₹18-32 Lakhs/year
+P21,NexaOps AI,AI & Predictive Analytics,Healthcare & Life Sciences,Operational intelligence for healthcare service workflows,process analytics; anomaly detection; KPI monitoring,₹16-30 Lakhs/year
+P22,NexaDoc,Data & Digital Engineering,Healthcare & Life Sciences,Document intelligence for structured extraction and workflow routing,document AI; OCR; classification; workflow automation,₹14-26 Lakhs/year
+P23,NexaData Health,Data & Digital Engineering,Healthcare & Life Sciences,Healthcare data integration and analytics platform,data engineering; APIs; analytics; governance,₹22-40 Lakhs/year
+P24,NexaDataOps,Data & Digital Engineering,"IT, Digital & Data Services",Data operations platform for reliable pipelines and observability,data quality; pipelines; monitoring; APIs,₹18-34 Lakhs/year
+P25,NexaCloudIQ,AI & Predictive Analytics,"IT, Digital & Data Services",Cloud and infrastructure cost intelligence with anomaly alerts,cost analytics; anomaly detection; optimization,₹16-30 Lakhs/year
+P26,NexaCustomerIQ,Data & Digital Engineering,"IT, Digital & Data Services","Customer intelligence for retention, segmentation and service analytics",customer analytics; churn signals; segmentation,₹18-34 Lakhs/year
+P27,NexaAI Hub,AI & Predictive Analytics,"IT, Digital & Data Services",Enterprise AI platform for deploying governed AI use cases,AI platform; MLOps; model governance; evaluation,₹25-45 Lakhs/year
+P28,NexaVision FMCG,Computer Vision,FMCG Manufacturing,"Visual inspection for packaging, fill-level and line-quality checks",computer vision; defect detection; quality analytics,₹15-28 Lakhs/year
+P29,NexaData FMCG,Data & Digital Engineering,FMCG Manufacturing,"Integrated data foundation for demand, production and supply-chain analytics",data engineering; APIs; dashboards; forecasting,₹20-36 Lakhs/year

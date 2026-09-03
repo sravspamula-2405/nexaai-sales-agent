@@ -1,0 +1,9 @@
+id,partner,category,capabilities,integrations,industries,status
+PAR01,Cloud Partner A,Cloud,AI/ML; data platform,Azure/AWS,Automotive; FMCG; Pharma,Active
+PAR02,IoT Partner B,IoT Hardware,Sensors; gateways,Industrial IoT,Manufacturing,Active
+PAR03,ERP Partner C,Enterprise Integration,ERP APIs; data integration,SAP/ERP,Manufacturing; Pharma,Active
+PAR04,MES Partner D,Manufacturing Systems,MES integration,MES,Automotive; FMCG,Active
+PAR05,Vision Hardware Partner,Computer Vision,Edge cameras,Vision inspection,Automotive; Pharma,Active
+PAR06,Banking Data Partner F,Data & Integration,Secure APIs; data governance,Core banking; APIs,Banking; Financial Services; Insurance,Active
+PAR07,Healthcare Integration Partner G,Healthcare IT,Workflow integration; APIs,Hospital systems; APIs,Healthcare; Hospitals; Diagnostics,Active
+PAR08,Cloud FinOps Partner H,Cloud,Cloud optimization; observability,Azure/AWS/GCP,IT; SaaS; Digital,Active

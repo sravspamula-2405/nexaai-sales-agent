@@ -1,0 +1,5 @@
+proposal_id,customer,industry,requirement,primary_solution,secondary_solution,case_study_used,teams_involved,estimated_value,status,proposal_date,outcome_notes
+PROP-001,AutoPrime Motors,Automotive Manufacturing,Reduce equipment downtime,NexaPredict,NexaMonitor,AutoPrime Motors case study,AI & IoT,₹32 Lakhs,Won,2026-05-14,Technical demo completed
+PROP-002,FreshBite Foods,FMCG Manufacturing,Reduce production defects,NexaVision,,FreshBite Foods case study,Computer Vision,₹18 Lakhs,Won,2026-06-02,Expanded to second line
+PROP-003,MediCore Pharmaceuticals,Pharmaceuticals,Improve equipment monitoring,NexaAsset360,NexaData,MediCore Pharmaceuticals case study,Data & AI,₹25 Lakhs,Proposal,2026-07-18,Commercial review pending
+PROP-20260904-015710,Apollo Care Network,Healthcare & Life Sciences,Reduce patient waiting time and improve hospital operations,NexaCareFlow,NexaOps AI,HealthFirst Network,"Digital Engineering, Data Engineering, Data & AI",₹14-18 Lakhs/year,Won,2026-09-04,AI-assisted proposal; human-reviewed before external sharing.

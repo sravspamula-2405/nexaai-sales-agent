@@ -1,0 +1,30 @@
+id,customer,industry,stage,objective,pain_points,probability,estimated_value,lead_source
+CRM-001,ABC Motors,Automotive Manufacturing,New lead,Reduce manufacturing downtime,High equipment downtime; reactive maintenance,45%,₹12 Lakhs,Referral
+CRM-002,AutoPrime Motors,Automotive Manufacturing,Existing customer,Expand predictive maintenance,Need wider plant coverage,52%,₹16 Lakhs,Website
+CRM-003,Global Auto Components,Automotive Manufacturing,Proposal,Improve equipment visibility,Limited real-time telemetry,59%,₹20 Lakhs,Partner
+CRM-004,EVWorks,Automotive Manufacturing,Qualified,Improve battery production quality,Battery defects and inconsistent inspection,66%,₹24 Lakhs,Existing account
+CRM-005,DriveTech Systems,Automotive Manufacturing,Discovery,Automate quality inspection,Manual inspection effort,73%,₹28 Lakhs,Referral
+CRM-006,FreshBite Foods,FMCG Manufacturing,Proposal,Reduce production defects,Manual quality checks,80%,₹32 Lakhs,Website
+CRM-007,FreshFoods Manufacturing,FMCG Manufacturing,Qualified,Improve production planning,Demand volatility and waste,87%,₹36 Lakhs,Partner
+CRM-008,TasteCraft Beverages,FMCG Manufacturing,Discovery,Optimize production throughput,Line bottlenecks,94%,₹40 Lakhs,Existing account
+CRM-009,DailyHarvest Foods,FMCG Manufacturing,New lead,Forecast demand better,Forecast error and inventory imbalance,51%,₹12 Lakhs,Referral
+CRM-010,MediCore Pharmaceuticals,Pharmaceuticals,Qualified,Improve equipment monitoring,Critical equipment reliability,58%,₹16 Lakhs,Website
+CRM-011,NovaPharma,Pharmaceuticals,Discovery,Automate packaging inspection,Manual visual inspection,65%,₹20 Lakhs,Partner
+CRM-012,HealthPlus Labs,Pharmaceuticals,Proposal,Build governed plant data platform,Fragmented data sources,72%,₹24 Lakhs,Existing account
+CRM-013,MegaSteel,Heavy Engineering,New lead,Predict failures in critical assets,Unexpected asset failures,79%,₹28 Lakhs,Referral
+CRM-014,ForgeWorks,Heavy Engineering,Discovery,Monitor remote equipment,Intermittent connectivity,86%,₹32 Lakhs,Website
+CRM-015,RetailOne,Retail,Qualified,Improve demand forecasting,Seasonality and stock-outs,93%,₹36 Lakhs,Partner
+CRM-016,ABC Motors,Automotive Manufacturing,New lead,Reduce manufacturing downtime,High equipment downtime; reactive maintenance,50%,₹40 Lakhs,Existing account
+CRM-017,AutoPrime Motors,Automotive Manufacturing,Existing customer,Expand predictive maintenance,Need wider plant coverage,57%,₹12 Lakhs,Referral
+CRM-018,Global Auto Components,Automotive Manufacturing,Proposal,Improve equipment visibility,Limited real-time telemetry,64%,₹16 Lakhs,Website
+CRM-019,EVWorks,Automotive Manufacturing,Qualified,Improve battery production quality,Battery defects and inconsistent inspection,71%,₹20 Lakhs,Partner
+CRM-020,DriveTech Systems,Automotive Manufacturing,Discovery,Automate quality inspection,Manual inspection effort,78%,₹24 Lakhs,Existing account
+CRM-021,FreshBite Foods,FMCG Manufacturing,Proposal,Reduce production defects,Manual quality checks,85%,₹28 Lakhs,Referral
+CRM-022,FreshFoods Manufacturing,FMCG Manufacturing,Qualified,Improve production planning,Demand volatility and waste,92%,₹32 Lakhs,Website
+CRM-023,TasteCraft Beverages,FMCG Manufacturing,Discovery,Optimize production throughput,Line bottlenecks,49%,₹36 Lakhs,Partner
+CRM-024,DailyHarvest Foods,FMCG Manufacturing,New lead,Forecast demand better,Forecast error and inventory imbalance,56%,₹40 Lakhs,Existing account
+CRM-025,MediCore Pharmaceuticals,Pharmaceuticals,Qualified,Improve equipment monitoring,Critical equipment reliability,63%,₹12 Lakhs,Referral
+CRM-026,FinServe Bank,Banking & Financial Services,Qualified,Reduce fraud review turnaround,High manual review workload; fragmented risk signals,61%,₹28 Lakhs,Referral
+CRM-027,HealthFirst Network,Healthcare & Life Sciences,New lead,Improve patient flow,Long wait times; uneven capacity utilization,48%,₹24 Lakhs,Website
+CRM-028,CloudWorks Digital,"IT, Digital & Data Services",Proposal,Improve delivery predictability,Resource bottlenecks; fragmented project data,57%,₹30 Lakhs,Partner
+CRM-20260904015710,Apollo Care Network,Healthcare & Life Sciences,Won,Reduce patient waiting time and improve hospital operations,"Long patient queues, inefficient resource allocation, and limited operational visibility",50%,₹14-18 Lakhs/year,Sales Intelligence

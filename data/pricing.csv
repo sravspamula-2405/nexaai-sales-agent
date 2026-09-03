@@ -1,0 +1,88 @@
+id,product_id,package,price,max_discount,deployment
+PR-01-1,P01,Pilot,₹8-12 Lakhs/year,5%,Cloud
+PR-01-2,P01,Professional,₹16-20 Lakhs/year,10%,Hybrid
+PR-01-3,P01,Enterprise,₹24-28 Lakhs/year,15%,Hybrid / On-prem
+PR-02-1,P02,Pilot,₹11-15 Lakhs/year,5%,Cloud
+PR-02-2,P02,Professional,₹19-23 Lakhs/year,10%,Hybrid
+PR-02-3,P02,Enterprise,₹27-31 Lakhs/year,15%,Hybrid / On-prem
+PR-03-1,P03,Pilot,₹14-18 Lakhs/year,5%,Cloud
+PR-03-2,P03,Professional,₹22-26 Lakhs/year,10%,Hybrid
+PR-03-3,P03,Enterprise,₹30-34 Lakhs/year,15%,Hybrid / On-prem
+PR-04-1,P04,Pilot,₹17-21 Lakhs/year,5%,Cloud
+PR-04-2,P04,Professional,₹25-29 Lakhs/year,10%,Hybrid
+PR-04-3,P04,Enterprise,₹33-37 Lakhs/year,15%,Hybrid / On-prem
+PR-05-1,P05,Pilot,₹20-24 Lakhs/year,5%,Cloud
+PR-05-2,P05,Professional,₹28-32 Lakhs/year,10%,Hybrid
+PR-05-3,P05,Enterprise,₹36-40 Lakhs/year,15%,Hybrid / On-prem
+PR-06-1,P06,Pilot,₹23-27 Lakhs/year,5%,Cloud
+PR-06-2,P06,Professional,₹31-35 Lakhs/year,10%,Hybrid
+PR-06-3,P06,Enterprise,₹39-43 Lakhs/year,15%,Hybrid / On-prem
+PR-07-1,P07,Pilot,₹8-12 Lakhs/year,5%,Cloud
+PR-07-2,P07,Professional,₹16-20 Lakhs/year,10%,Hybrid
+PR-07-3,P07,Enterprise,₹24-28 Lakhs/year,15%,Hybrid / On-prem
+PR-08-1,P08,Pilot,₹11-15 Lakhs/year,5%,Cloud
+PR-08-2,P08,Professional,₹19-23 Lakhs/year,10%,Hybrid
+PR-08-3,P08,Enterprise,₹27-31 Lakhs/year,15%,Hybrid / On-prem
+PR-09-1,P09,Pilot,₹14-18 Lakhs/year,5%,Cloud
+PR-09-2,P09,Professional,₹22-26 Lakhs/year,10%,Hybrid
+PR-09-3,P09,Enterprise,₹30-34 Lakhs/year,15%,Hybrid / On-prem
+PR-10-1,P10,Pilot,₹17-21 Lakhs/year,5%,Cloud
+PR-10-2,P10,Professional,₹25-29 Lakhs/year,10%,Hybrid
+PR-10-3,P10,Enterprise,₹33-37 Lakhs/year,15%,Hybrid / On-prem
+PR-11-1,P11,Pilot,₹20-24 Lakhs/year,5%,Cloud
+PR-11-2,P11,Professional,₹28-32 Lakhs/year,10%,Hybrid
+PR-11-3,P11,Enterprise,₹36-40 Lakhs/year,15%,Hybrid / On-prem
+PR-12-1,P12,Pilot,₹23-27 Lakhs/year,5%,Cloud
+PR-12-2,P12,Professional,₹31-35 Lakhs/year,10%,Hybrid
+PR-12-3,P12,Enterprise,₹39-43 Lakhs/year,15%,Hybrid / On-prem
+PR-13-1,P13,Pilot,₹8-12 Lakhs/year,5%,Cloud
+PR-13-2,P13,Professional,₹16-20 Lakhs/year,10%,Hybrid
+PR-13-3,P13,Enterprise,₹24-28 Lakhs/year,15%,Hybrid / On-prem
+PR-14-1,P14,Pilot,₹11-15 Lakhs/year,5%,Cloud
+PR-14-2,P14,Professional,₹19-23 Lakhs/year,10%,Hybrid
+PR-14-3,P14,Enterprise,₹27-31 Lakhs/year,15%,Hybrid / On-prem
+PR-15-1,P15,Pilot,₹14-18 Lakhs/year,5%,Cloud
+PR-15-2,P15,Professional,₹22-26 Lakhs/year,10%,Hybrid
+PR-15-3,P15,Enterprise,₹30-34 Lakhs/year,15%,Hybrid / On-prem
+PR-P16-1,P16,Pilot,₹14-18 Lakhs/year,5%,Cloud
+PR-P16-2,P16,Professional,₹16-20 Lakhs/year,10%,Hybrid
+PR-P16-3,P16,Enterprise,₹28-32 Lakhs/year,15%,Hybrid / On-prem
+PR-P17-1,P17,Pilot,₹16-20 Lakhs/year,5%,Cloud
+PR-P17-2,P17,Professional,₹18-22 Lakhs/year,10%,Hybrid
+PR-P17-3,P17,Enterprise,₹34-38 Lakhs/year,15%,Hybrid / On-prem
+PR-P18-1,P18,Pilot,₹18-22 Lakhs/year,5%,Cloud
+PR-P18-2,P18,Professional,₹20-24 Lakhs/year,10%,Hybrid
+PR-P18-3,P18,Enterprise,₹36-40 Lakhs/year,15%,Hybrid / On-prem
+PR-P19-1,P19,Pilot,₹20-24 Lakhs/year,5%,Cloud
+PR-P19-2,P19,Professional,₹22-26 Lakhs/year,10%,Hybrid
+PR-P19-3,P19,Enterprise,₹38-42 Lakhs/year,15%,Hybrid / On-prem
+PR-P20-1,P20,Pilot,₹14-18 Lakhs/year,5%,Cloud
+PR-P20-2,P20,Professional,₹16-20 Lakhs/year,10%,Hybrid
+PR-P20-3,P20,Enterprise,₹28-32 Lakhs/year,15%,Hybrid / On-prem
+PR-P21-1,P21,Pilot,₹12-16 Lakhs/year,5%,Cloud
+PR-P21-2,P21,Professional,₹14-18 Lakhs/year,10%,Hybrid
+PR-P21-3,P21,Enterprise,₹26-30 Lakhs/year,15%,Hybrid / On-prem
+PR-P22-1,P22,Pilot,₹10-14 Lakhs/year,5%,Cloud
+PR-P22-2,P22,Professional,₹12-16 Lakhs/year,10%,Hybrid
+PR-P22-3,P22,Enterprise,₹22-26 Lakhs/year,15%,Hybrid / On-prem
+PR-P23-1,P23,Pilot,₹18-22 Lakhs/year,5%,Cloud
+PR-P23-2,P23,Professional,₹20-24 Lakhs/year,10%,Hybrid
+PR-P23-3,P23,Enterprise,₹36-40 Lakhs/year,15%,Hybrid / On-prem
+PR-P24-1,P24,Pilot,₹14-18 Lakhs/year,5%,Cloud
+PR-P24-2,P24,Professional,₹16-20 Lakhs/year,10%,Hybrid
+PR-P24-3,P24,Enterprise,₹30-34 Lakhs/year,15%,Hybrid / On-prem
+PR-P25-1,P25,Pilot,₹12-16 Lakhs/year,5%,Cloud
+PR-P25-2,P25,Professional,₹14-18 Lakhs/year,10%,Hybrid
+PR-P25-3,P25,Enterprise,₹26-30 Lakhs/year,15%,Hybrid / On-prem
+PR-P26-1,P26,Pilot,₹14-18 Lakhs/year,5%,Cloud
+PR-P26-2,P26,Professional,₹16-20 Lakhs/year,10%,Hybrid
+PR-P26-3,P26,Enterprise,₹30-34 Lakhs/year,15%,Hybrid / On-prem
+PR-P27-1,P27,Pilot,₹21-25 Lakhs/year,5%,Cloud
+PR-P27-2,P27,Professional,₹23-27 Lakhs/year,10%,Hybrid
+PR-P27-3,P27,Enterprise,₹41-45 Lakhs/year,15%,Hybrid / On-prem
+PR-P28-1,P28,Pilot,₹11-15 Lakhs/year,5%,Cloud
+PR-P28-2,P28,Professional,₹13-17 Lakhs/year,10%,Hybrid
+PR-P28-3,P28,Enterprise,₹24-28 Lakhs/year,15%,Hybrid / On-prem
+PR-P29-1,P29,Pilot,₹16-20 Lakhs/year,5%,Cloud
+PR-P29-2,P29,Professional,₹18-22 Lakhs/year,10%,Hybrid
+PR-P29-3,P29,Enterprise,₹32-36 Lakhs/year,15%,Hybrid / On-prem

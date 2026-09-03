@@ -1,0 +1,47 @@
+ticket,initiative,team,status,tags,deliverable
+KAN-001,Predictive Maintenance Accelerator,Data & AI,Done,predictive maintenance; downtime; automotive,Reusable ML pipeline and demo assets
+KAN-002,Auto Plant IoT Integration,Digital Engineering,Done,IoT; automotive; telemetry,Machine connectivity patterns
+KAN-003,Vision Quality Pilot,Computer Vision,Done,vision; quality; automotive,Defect detection prototype
+KAN-004,FMCG Line Optimization,Data & AI,In Progress,FMCG; optimization; yield,Production optimization model
+KAN-005,Pharma Asset Health Pilot,Data & AI,Done,pharma; asset health; IoT,Condition monitoring pilot
+KAN-006,Industrial Lakehouse Foundation,Data Engineering,Done,data platform; lakehouse; manufacturing,Governed industrial data platform
+KAN-007,Safety Vision Deployment,Computer Vision,In Progress,safety; PPE; manufacturing,Safety monitoring deployment
+KAN-008,EV Battery Quality Analytics,Data & AI,In Progress,EV; battery; automotive; quality,Battery production analytics
+KAN-009,Legacy Machine Connector,Digital Engineering,Done,IoT; legacy integration; manufacturing,Connector patterns for plant equipment
+KAN-010,Retail Demand Forecasting,Data & AI,Done,retail; forecasting,Forecasting accelerator
+KAN-011,Predictive Maintenance Accelerator 2,Data & AI,Done,predictive maintenance; downtime; automotive,Reusable ML pipeline and demo assets
+KAN-012,Auto Plant IoT Integration 2,Digital Engineering,Done,IoT; automotive; telemetry,Machine connectivity patterns
+KAN-013,Vision Quality Pilot 2,Computer Vision,Done,vision; quality; automotive,Defect detection prototype
+KAN-014,FMCG Line Optimization 2,Data & AI,In Progress,FMCG; optimization; yield,Production optimization model
+KAN-015,Pharma Asset Health Pilot 2,Data & AI,Done,pharma; asset health; IoT,Condition monitoring pilot
+KAN-016,Industrial Lakehouse Foundation 2,Data Engineering,Done,data platform; lakehouse; manufacturing,Governed industrial data platform
+KAN-017,Safety Vision Deployment 2,Computer Vision,In Progress,safety; PPE; manufacturing,Safety monitoring deployment
+KAN-018,EV Battery Quality Analytics 2,Data & AI,In Progress,EV; battery; automotive; quality,Battery production analytics
+KAN-019,Legacy Machine Connector 2,Digital Engineering,Done,IoT; legacy integration; manufacturing,Connector patterns for plant equipment
+KAN-020,Retail Demand Forecasting 2,Data & AI,Done,retail; forecasting,Forecasting accelerator
+KAN-021,Predictive Maintenance Accelerator 3,Data & AI,Done,predictive maintenance; downtime; automotive,Reusable ML pipeline and demo assets
+KAN-022,Auto Plant IoT Integration 3,Digital Engineering,Done,IoT; automotive; telemetry,Machine connectivity patterns
+KAN-023,Vision Quality Pilot 3,Computer Vision,Done,vision; quality; automotive,Defect detection prototype
+KAN-024,FMCG Line Optimization 3,Data & AI,In Progress,FMCG; optimization; yield,Production optimization model
+KAN-025,Pharma Asset Health Pilot 3,Data & AI,Done,pharma; asset health; IoT,Condition monitoring pilot
+KAN-026,Industrial Lakehouse Foundation 3,Data Engineering,Done,data platform; lakehouse; manufacturing,Governed industrial data platform
+KAN-027,Safety Vision Deployment 3,Computer Vision,In Progress,safety; PPE; manufacturing,Safety monitoring deployment
+KAN-028,EV Battery Quality Analytics 3,Data & AI,In Progress,EV; battery; automotive; quality,Battery production analytics
+KAN-029,Legacy Machine Connector 3,Digital Engineering,Done,IoT; legacy integration; manufacturing,Connector patterns for plant equipment
+KAN-030,Retail Demand Forecasting 3,Data & AI,Done,retail; forecasting,Forecasting accelerator
+KAN-031,Predictive Maintenance Accelerator 4,Data & AI,Done,predictive maintenance; downtime; automotive,Reusable ML pipeline and demo assets
+KAN-032,Auto Plant IoT Integration 4,Digital Engineering,Done,IoT; automotive; telemetry,Machine connectivity patterns
+KAN-033,Vision Quality Pilot 4,Computer Vision,Done,vision; quality; automotive,Defect detection prototype
+KAN-034,FMCG Line Optimization 4,Data & AI,In Progress,FMCG; optimization; yield,Production optimization model
+KAN-035,Pharma Asset Health Pilot 4,Data & AI,Done,pharma; asset health; IoT,Condition monitoring pilot
+KAN-036,Industrial Lakehouse Foundation 4,Data Engineering,Done,data platform; lakehouse; manufacturing,Governed industrial data platform
+KAN-037,Safety Vision Deployment 4,Computer Vision,In Progress,safety; PPE; manufacturing,Safety monitoring deployment
+KAN-038,EV Battery Quality Analytics 4,Data & AI,In Progress,EV; battery; automotive; quality,Battery production analytics
+KAN-039,Legacy Machine Connector 4,Digital Engineering,Done,IoT; legacy integration; manufacturing,Connector patterns for plant equipment
+KAN-040,Retail Demand Forecasting 4,Data & AI,Done,retail; forecasting,Forecasting accelerator
+KAN-021,Fraud Intelligence Pilot,Data & AI,Done,fraud; banking; anomaly detection,Fraud analytics accelerator
+KAN-022,Banking Data Governance Foundation,Data Engineering,In Progress,banking; data; governance,Secure data integration patterns
+KAN-023,Patient Flow Analytics Pilot,Data & AI,Done,healthcare; patient flow; optimization,Queue and capacity analytics
+KAN-024,Healthcare Document Automation,Digital Engineering,In Progress,healthcare; document AI; workflow,Document extraction and routing
+KAN-025,Cloud Cost Intelligence Accelerator,Data & AI,Done,IT; cloud; cost; anomaly detection,Cloud spend analytics
+KAN-026,Enterprise DataOps Observability,Data Engineering,Done,IT; data; observability; pipelines,Pipeline and data-quality monitoring

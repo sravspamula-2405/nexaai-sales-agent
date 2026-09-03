@@ -1,0 +1,42 @@
+id,team,asset,status,technologies,capabilities,industries
+K001,Data & AI,Predictive Maintenance Accelerator,Done,ML; Python; IoT,Failure prediction; asset health; maintenance alerts,Automotive; Manufacturing; Heavy Engineering
+K002,Digital Engineering,Time-Series Forecasting Toolkit,Done,Python; ML,Demand forecasting; inventory planning,FMCG; Retail
+K003,Computer Vision,Plant IoT Integration Patterns,Done,IoT; APIs,Machine telemetry; legacy integration,Automotive; Manufacturing
+K004,Data Engineering,Vision Quality Inspection Framework,Done,Computer Vision; Edge AI,Defect detection; visual inspection,Automotive; FMCG; Pharmaceuticals
+K005,Industry Consulting,Industrial Data Lakehouse Blueprint,Done,Cloud; Spark; SQL,Plant data integration; governed analytics,Manufacturing; Pharmaceuticals
+K006,Solutions Engineering,Production Optimization Model,In Progress,Optimization; Python,Throughput; yield; waste optimization,FMCG; Manufacturing
+K007,Cloud & Platform,Safety Vision Accelerator,Done,Computer Vision,PPE detection; zone monitoring,Manufacturing; Heavy Engineering
+K008,Customer Success,Pharma Asset Monitoring Pack,Done,IoT; ML,Condition monitoring; alerts,Pharmaceuticals
+K009,Data & AI,Automotive Solutions Consulting,Available,Domain consulting,Plant transformation; OEE; downtime,Automotive
+K010,Digital Engineering,FMCG Solutions Consulting,Available,Domain consulting,Yield; waste; production planning,FMCG
+K011,Computer Vision,Pharma Solutions Consulting,Available,Domain consulting,Quality; asset reliability,Pharmaceuticals
+K012,Data Engineering,Cloud AI Landing Zone,Done,Azure; AWS,AI deployment; MLOps; security,Automotive; FMCG; Pharmaceuticals
+K013,Industry Consulting,Predictive Maintenance Accelerator,Done,ML; Python; IoT,Failure prediction; asset health; maintenance alerts,Automotive; Manufacturing; Heavy Engineering
+K014,Solutions Engineering,Time-Series Forecasting Toolkit,Done,Python; ML,Demand forecasting; inventory planning,FMCG; Retail
+K015,Cloud & Platform,Plant IoT Integration Patterns,Done,IoT; APIs,Machine telemetry; legacy integration,Automotive; Manufacturing
+K016,Customer Success,Vision Quality Inspection Framework,Done,Computer Vision; Edge AI,Defect detection; visual inspection,Automotive; FMCG; Pharmaceuticals
+K017,Data & AI,Industrial Data Lakehouse Blueprint,Done,Cloud; Spark; SQL,Plant data integration; governed analytics,Manufacturing; Pharmaceuticals
+K018,Digital Engineering,Production Optimization Model,In Progress,Optimization; Python,Throughput; yield; waste optimization,FMCG; Manufacturing
+K019,Computer Vision,Safety Vision Accelerator,Done,Computer Vision,PPE detection; zone monitoring,Manufacturing; Heavy Engineering
+K020,Data Engineering,Pharma Asset Monitoring Pack,Done,IoT; ML,Condition monitoring; alerts,Pharmaceuticals
+K021,Industry Consulting,Automotive Solutions Consulting,Available,Domain consulting,Plant transformation; OEE; downtime,Automotive
+K022,Solutions Engineering,FMCG Solutions Consulting,Available,Domain consulting,Yield; waste; production planning,FMCG
+K023,Cloud & Platform,Pharma Solutions Consulting,Available,Domain consulting,Quality; asset reliability,Pharmaceuticals
+K024,Customer Success,Cloud AI Landing Zone,Done,Azure; AWS,AI deployment; MLOps; security,Automotive; FMCG; Pharmaceuticals
+K025,Data & AI,Predictive Maintenance Accelerator,Done,ML; Python; IoT,Failure prediction; asset health; maintenance alerts,Automotive; Manufacturing; Heavy Engineering
+K026,Digital Engineering,Time-Series Forecasting Toolkit,Done,Python; ML,Demand forecasting; inventory planning,FMCG; Retail
+K027,Computer Vision,Plant IoT Integration Patterns,Done,IoT; APIs,Machine telemetry; legacy integration,Automotive; Manufacturing
+K028,Data Engineering,Vision Quality Inspection Framework,Done,Computer Vision; Edge AI,Defect detection; visual inspection,Automotive; FMCG; Pharmaceuticals
+K029,Industry Consulting,Industrial Data Lakehouse Blueprint,Done,Cloud; Spark; SQL,Plant data integration; governed analytics,Manufacturing; Pharmaceuticals
+K030,Solutions Engineering,Production Optimization Model,In Progress,Optimization; Python,Throughput; yield; waste optimization,FMCG; Manufacturing
+K031,Cloud & Platform,Safety Vision Accelerator,Done,Computer Vision,PPE detection; zone monitoring,Manufacturing; Heavy Engineering
+K032,Customer Success,Pharma Asset Monitoring Pack,Done,IoT; ML,Condition monitoring; alerts,Pharmaceuticals
+K033,Data & AI,Fraud Analytics Accelerator,Done,ML; Python; anomaly detection,Transaction anomaly scoring; fraud-risk prioritization,Banking; Financial Services; Payments
+K034,Data Engineering,BFSI Data Governance Blueprint,Available,Cloud; SQL; APIs,Secure data integration; governed analytics; reusable data products,Banking; Financial Services; Insurance
+K035,Industry Consulting,Banking Risk Transformation Pack,Available,Risk analytics; process design,Fraud operations; lending risk; workflow transformation,Banking; Financial Services; Insurance
+K036,Data & AI,Patient Flow Analytics Accelerator,Done,Python; ML; optimization,Queue analytics; capacity planning; patient-flow forecasting,Healthcare; Hospitals; Diagnostics
+K037,Data Engineering,Healthcare Data Platform Blueprint,Available,Cloud; APIs; governance,Clinical/operational data integration; governed analytics,Healthcare; Hospitals; Diagnostics; Pharma
+K038,Digital Engineering,Healthcare Workflow Automation Pack,Done,OCR; workflow automation; APIs,Document extraction; routing; operational workflow automation,Healthcare; Hospitals; Diagnostics
+K039,Data & AI,AIOps & Cloud Cost Accelerator,Done,Python; ML; observability,Cloud anomaly detection; cost intelligence; operational alerts,IT; Digital; SaaS; Cloud
+K040,Data Engineering,Enterprise DataOps Blueprint,Done,Python; SQL; APIs,Pipeline observability; data quality; metadata and API integration,IT; Data Engineering; SaaS
+K041,Digital Engineering,Digital Delivery Intelligence Pack,Available,Analytics; workflow; APIs,Delivery predictability; resource planning; project intelligence,IT; Digital Transformation; SaaS
